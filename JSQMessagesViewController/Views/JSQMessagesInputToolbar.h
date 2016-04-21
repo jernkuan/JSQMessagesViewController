@@ -90,7 +90,7 @@
 /**
  *  Specifies the maximum height for the toolbar. The default value is `NSNotFound`, which specifies no maximum height.
  */
-@property (assign, nonatomic) NSUInteger maximumHeight;
+@property (assign, nonatomic) NSInteger maximumHeight;
 
 /**
  *  Enables or disables the send button based on whether or not its `textView` has text.
